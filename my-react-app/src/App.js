@@ -7,7 +7,7 @@ function App() {
     <div>
       <h1>Hellow world</h1>
       <h2>
-        <img src="mypic.jpeg" alt="Designers Hub" hight="10" width="10" allign="left"/>
+        <img src="mypic.jpeg" alt="Designers Hub" allign="left"/>
       </h2>
       <h3> this is my first react app for Bootcamp-2020 class 2</h3>
     </div>
