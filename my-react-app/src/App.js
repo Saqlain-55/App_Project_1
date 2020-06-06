@@ -9,8 +9,9 @@ function App() {
       <h2>
         <img src="mypic.jpeg" alt="Designers Hub" allign="left"/>
       </h2>
-      <h1>Hellow world</h1>
-      <h3> this is my first react app for Bootcamp-2020 class 2</h3>
+      <p1> Hye! <br/> This is <b>Muhammad Saqlain Saleem</b> <br/>
+      </p1>
+      <p2> This my First App for Bootcamp-2020 class 2 practice.</p2>
     </div>
   );
 }
