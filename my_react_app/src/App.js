@@ -7,7 +7,7 @@ function App() {
     <div>
      
       <h2>
-        <img src="mypic.jpeg" alt="Designers Hub" allign="left"/>
+        This is muhammad saqlain Saleem
       </h2>
       <p1> Hye! <br/> This is <b>Muhammad Saqlain Saleem</b> <br/>
       </p1>
