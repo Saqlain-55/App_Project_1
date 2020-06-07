@@ -24,7 +24,7 @@ jobs:
       with: 
         version: 12
     - name: GitHub Action for Yarn Pkg
-      uses: Borales/yarn-github-action@2.1.0
+      uses: Borales/yarn-github-action@v2.1.0
       with:
          cmd: install
      
