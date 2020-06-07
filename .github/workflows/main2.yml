@@ -20,7 +20,7 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
     - name: Setup Node.js environment
-      uses: actions/setup-node@v2 -beta
+      uses: actions/setup-node@v2-beta
       with: 
         version: 12
     - name: GitHub Action for Yarn Pkg
@@ -34,5 +34,3 @@ jobs:
       run: npm install -g surge
     - name: deploying on surge
       run: surge ./build http://practice_class2.surge.sh/ --token ${{secrets.SURGE_TOKEN}}
-         
-
