@@ -1,5 +1,4 @@
-import React from 'react';
-
+import React from 'React';
 function myintro (probs) {
     return(
         <div>
