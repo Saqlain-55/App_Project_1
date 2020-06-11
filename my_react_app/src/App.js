@@ -6,7 +6,7 @@ import myintro from './myintro.js';
 function App() {
   return (
     <div> 
-      <myintro/>
+      <myintro />
         <img src="mypic.jpeg" alt="Saqlain Saleem" hight="50" width="50" allign="left"/>
         
       <h2>
