@@ -4,7 +4,8 @@ import myintro from './myintro';
 function App() {
   return (
     <div> 
-      <myintro />
+      <h1>saqlain saleem
+      </h1> 
        
     </div>
   );
