@@ -1,10 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import myintro from ' ./myintro.js';
 
 function App() {
   return (
     <div> 
+      <myintro/>
         <img src="mypic.jpeg" alt="Saqlain Saleem" hight="50" width="50" allign="left"/>
         
       <h2>
