@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
+import Diner from './Diner';
 function App() {
   return (
-    <div> 
-      <h1>a run ho ri a 
-      </h1> 
+    <div classname="App">
+      {/* <Diner></Diner> */ }
+      <Diner dishname="Biryani" sweetdish="kheer" allign />
+      <Diner dishname="krahi chiken" sweetdish="kulf" />
        
     </div>
   );
