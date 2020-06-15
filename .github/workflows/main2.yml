@@ -33,4 +33,4 @@ jobs:
     - name: installing surge
       run: npm install -g surge
     - name: deploying on surge
-      run: surge ./ build http://practice_class2.surge.sh/ --token ${{secrets.surge_token2}}
+      run: surge ./ build http://Food_menu.surge.sh/ --token ${{secrets.surge_token2}}
