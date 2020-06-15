@@ -24,11 +24,23 @@ function App() {
 
       <Diner dishname="krahi chiken" sweetdish="kulfa" />
       <p><img src="../images/k.jpg" alt="Chiken krahi" align="middle"/> </p>
+      <p>
+      <price>
+        Price Per serving:<br></br> <b>350 PKR/ Only</b></price>
+      <br></br>
+      <a href="https://www.foodpanda.pk/restaurant/n4yi/chicken-inn-fast-food#"><button>Order Now</button></a>
+        <br/>
+        </p>
 
       <table width="1300" border="20" bg-color="lighht gray"/>
 
       <Diner dishname="Nihari" />
       <p><img src="../images/N.jpg" alt="Nihari" align="middle" width="300px"/> </p>
+      <price>
+        Price Per serving:<br></br> <b>350 PKR/ Only</b></price>
+      <br></br>
+      <a href="https://www.foodpanda.pk/restaurant/n4yi/chicken-inn-fast-food#"><button>Order Now</button></a>
+        <br/>
   
 
     </div>
